@@ -29,6 +29,17 @@
       "answer": null,
       "createdAt": "2025-06-11T16:00:00Z",
       "resolvedAt": null
+    },
+    {
+      "title": "ss",
+      "context": "sss",
+      "subject": "sss",
+      "status": "open",
+      "answer": null,
+      "createdAt": "2026-04-06T23:52:39.068Z",
+      "resolvedAt": null,
+      "id": "A9A-VfZZ-JA"
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }

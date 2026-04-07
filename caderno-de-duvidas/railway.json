@@ -1,0 +1,10 @@
+{
+  "$schema": "https://railway.com/railway.schema.json",
+  "build": {
+    "builder": "NIXPACKS"
+  },
+  "deploy": {
+    "startCommand": "node_modules/.bin/json-server db.json --port 3001",
+    "restartPolicyType": "ON_FAILURE"
+  }
+}
